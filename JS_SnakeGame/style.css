@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+.container {
+    padding: 55px 0;
+}
+
+#p1 {
+    margin: 10px;
+    color: #202a5f;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'system-ui', sans-serif;
+}
+
+#canvas {
+    border: 1px solid #fff;
+    border-radius: 15px;
+    background-color: #202a5f;
+}
+
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
